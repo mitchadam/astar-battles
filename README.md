@@ -1,4 +1,4 @@
-Welcome to A*Star battle, a fun multiplayer game which pits
+Welcome to A*Star battles, a fun multiplayer game which pits
 human vs machine as each player must battle the 'finder' of the
 opponent.
 
@@ -131,6 +131,5 @@ Notes and Assumptions:
 Reference:
 
     The following was used as reference material throughout the course of the project:
-        - For the cool ASCII Art in the README: http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
         - For help on A*star: https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2
         - For help on Pygame: https://www.pygame.org/docs/
